@@ -392,7 +392,9 @@ body {
 
     border-radius: 10px;
 
-    width: 250px;
+    width: 350px;
+
+    height: 350px;
 
     border: 3px solid #F5F5DC;
 
@@ -636,7 +638,7 @@ body {
 
     width: 100%;
 
-    height: 200px;
+    height: 350px;
 
     object-fit: contain;
 
@@ -649,7 +651,6 @@ body {
     transition: transform 0.3s ease;
 
 }
-
 
 
 .grid img:hover {
